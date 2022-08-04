@@ -9,11 +9,11 @@
 
 import importlib
 
-from WhyzuProject import BOTLOG_CHATID, LOGGER, LOOP, aiosession, bots
 from pyrogram import idle
 from uvloop import install
 
 from config import BOT_VER, CMD_HANDLER
+from WhyzuProject import BOTLOG_CHATID, LOGGER, LOOP, aiosession, bots
 from WhyzuProject.helpers.misc import heroku
 from WhyzuProject.modules import ALL_MODULES
 
