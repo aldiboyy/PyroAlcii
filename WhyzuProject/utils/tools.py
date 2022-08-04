@@ -14,7 +14,7 @@ absen = [
     "**Hadir ganteng** 🥵",
     "**Hadir bro** 😎",
     "**Hadir kak maap telat** 🥺",
-    "**Harir Bang Whyzu** 🤪"
+    "**Harir Bang Whyzu** 🤪",
 ]
 
 
