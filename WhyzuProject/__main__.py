@@ -9,7 +9,7 @@
 
 import importlib
 
-from ProjectMan import BOTLOG_CHATID, LOGGER, LOOP, aiosession, bots
+from WhyzuProject import BOTLOG_CHATID, LOGGER, LOOP, aiosession, bots
 from pyrogram import idle
 from uvloop import install
 
