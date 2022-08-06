@@ -49,7 +49,7 @@ async def gcast_cmd(client: Client, message: Message):
         text = message.reply_to_message.text or message.reply_to_message.caption
     if not text:
         return await edit_or_reply(message, "**Berikan Sebuah Pesan atau Reply**")
-    Man = await edit_or_reply(message, "`Started global broadcast...`")
+    Man = await edit_or_reply(message, "`Lagi Gcast Ngentod...`")
     done = 0
     error = 0
     async for dialog in client.iter_dialogs():
@@ -67,7 +67,7 @@ async def gcast_cmd(client: Client, message: Message):
                 except Exception:
                     error += 1
     await Man.edit_text(
-        f"**Berhasil Mengirim Pesan Ke** `{done}` **Grup, Gagal Mengirim Pesan Ke** `{error}` **Grup**"
+        f"**Sukes Gcast Nih Tod Ke** `{done}` **Grup, Gagal Gcast Tod Ke** `{error}` **Grup**"
     )
 
 
