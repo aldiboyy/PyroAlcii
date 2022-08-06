@@ -17,7 +17,7 @@ class First:
 
 ✣ **Userbot Version :** `{}`
 ✣ **Group Support :** [Whyzu Support](t.me/whyzunotsupport)
-✣ **Channel Man :** [Lunatic0de](t.me/Lunatic0de)
+✣ **Channel :** [WhyzuCH](t.me/WhyzuCH)
 ✣ **Owner Repo :** [Whyzu](t.me/Whyzu)
 ✣ **Repo :** [Whyzu-Userbot](https://github.com/itsmewhy/Whyzu-Userbot)"""
     CREATOR = 'I was created by my master <a href="https://github.com/itsmewhy/Whyzu-Userbot">Man</a> on a rainy day.'
