@@ -155,7 +155,7 @@ bot5 = (
 
 bot6 = (
     Client(
-        session_name=STRING_SESSION1,
+        session_name=STRING_SESSION6,
         api_id=API_ID,
         api_hash=API_HASH,
         plugins=dict(root="WhyzuProject/modules"),
@@ -166,7 +166,7 @@ bot6 = (
 
 bot7 = (
     Client(
-        session_name=STRING_SESSION1,
+        session_name=STRING_SESSION7,
         api_id=API_ID,
         api_hash=API_HASH,
         plugins=dict(root="WhyzuProject/modules"),
@@ -177,7 +177,7 @@ bot7 = (
 
 bot8 = (
     Client(
-        session_name=STRING_SESSION1,
+        session_name=STRING_SESSION8,
         api_id=API_ID,
         api_hash=API_HASH,
         plugins=dict(root="WhyzuProject/modules"),
@@ -188,7 +188,7 @@ bot8 = (
 
 bot9 = (
     Client(
-        session_name=STRING_SESSION1,
+        session_name=STRING_SESSION9,
         api_id=API_ID,
         api_hash=API_HASH,
         plugins=dict(root="WhyzuProject/modules"),
@@ -199,7 +199,7 @@ bot9 = (
 
 bot10 = (
     Client(
-        session_name=STRING_SESSION1,
+        session_name=STRING_SESSION10,
         api_id=API_ID,
         api_hash=API_HASH,
         plugins=dict(root="WhyzuProject/modules"),
