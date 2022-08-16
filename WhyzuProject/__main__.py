@@ -34,7 +34,7 @@ async def main():
             await bot.start()
             bot.me = await bot.get_me()
             await bot.join_chat("WhyzuCH")
-            await bot.join_chat("WhyzuNotSupport")
+            await bot.join_chat("WhyzuRoom")
             await bot.send_message(BOTLOG_CHATID, MSG_ON.format(BOT_VER, CMD_HANDLER))
             LOGGER("WhyzuProject").info(
                 f"Logged in as {bot.me.first_name} | [ {bot.me.id} ]"
