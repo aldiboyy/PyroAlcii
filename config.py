@@ -36,7 +36,7 @@ GIT_TOKEN = getenv(
         "utf-8"
     ),
 )
-GROUP = getenv("GROUP", "WhyzuNotSupport")
+GROUP = getenv("GROUP", "WhyzuRoom")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 PMPERMIT_PIC = getenv("PMPERMIT_PIC", None)
@@ -50,4 +50,9 @@ STRING_SESSION2 = getenv("STRING_SESSION2", "")
 STRING_SESSION3 = getenv("STRING_SESSION3", "")
 STRING_SESSION4 = getenv("STRING_SESSION4", "")
 STRING_SESSION5 = getenv("STRING_SESSION5", "")
+STRING_SESSION6 = getenv("STRING_SESSION6", "")
+STRING_SESSION7 = getenv("STRING_SESSION7", "")
+STRING_SESSION8 = getenv("STRING_SESSION8", "")
+STRING_SESSION9 = getenv("STRING_SESSION9", "")
+STRING_SESSION10 = getenv("STRING_SESSION10", "")
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "").split()))
