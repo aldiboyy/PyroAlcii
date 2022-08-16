@@ -12,7 +12,7 @@
       "required": true
     },
     "STRING_SESSION1": {
-      "description": "Dapatkan String Session Pyrogram di Grup » https://t.me/WhyzuNotSupport » Lalu ketik #string",
+      "description": "Dapatkan String Session Pyrogram di Grup » https://t.me/WhyzuRoom » Lalu ketik #string",
       "required": true
     },
     "BOTLOG_CHATID": {
