@@ -1,11 +1,11 @@
 # Credits: @risman
 # Copyright (C) 2022 Pyroman-ManUserbot
 #
-# This file is a part of < https://github.com/nathxe/PyroNath-Userbot/ >
+# This file is a part of < https://github.com/aldiboyy/PyroAlcii-Userbot/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/nathxe/PyroNath-Userbot/blob/main/LICENSE/>.
+# <https://www.github.com/aldiboyy/PyroAlcii-Userbot/blob/main/LICENSE/>.
 #
-# t.me/nathsupport & t.me/nathaellxx
+# t.me/alxelsupport & t.me/soasiklo69
 
 from base64 import b64decode
 from distutils.util import strtobool
@@ -17,7 +17,7 @@ load_dotenv("config.env")
 
 
 ALIVE_EMOJI = getenv("ALIVE_EMOJI", "☀️")
-ALIVE_LOGO = getenv("ALIVE_LOGO", "https://telegra.ph/file/6bf702d3fd386194ec971.jpg")
+ALIVE_LOGO = getenv("ALIVE_LOGO", "https://telegra.ph/file/91444fd9ed03c2f90c2a5.jpg")
 ALIVE_TEKS_CUSTOM = getenv("ALIVE_TEKS_CUSTOM", "Hey, I am alive.")
 API_HASH = getenv("API_HASH")
 API_ID = int(getenv("API_ID", ""))
@@ -27,7 +27,7 @@ if not BLACKLIST_CHAT:
 BOTLOG_CHATID = int(getenv("BOTLOG_CHATID") or 0)
 BOT_VER = "0.1.0@main"
 BRANCH = getenv("BRANCH", "main")
-CHANNEL = getenv("CHANNEL", "nathaellxx")
+CHANNEL = getenv("CHANNEL", "soasiklo69")
 CMD_HANDLER = getenv("CMD_HANDLER", ".")
 DB_URL = getenv("DATABASE_URL", "")
 GIT_TOKEN = getenv(
