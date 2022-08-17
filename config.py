@@ -1,11 +1,11 @@
-# Credits: @Why
-# Copyright (C) 2022 Whyzu-ManUserbot
+# Credits: @risman
+# Copyright (C) 2022 Pyroman-ManUserbot
 #
-# This file is a part of < https://github.com/itsmewhy/Whyzu-Userbot/ >
+# This file is a part of < https://github.com/nathxe/PyroNath-Userbot/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/itsmewhy/Whyzu-Userbot/blob/main/LICENSE/>.
+# <https://www.github.com/nathxe/PyroNath-Userbot/blob/main/LICENSE/>.
 #
-# t.me/WhyzuNotSupport & t.me/WhyzuCH
+# t.me/nathsupport & t.me/nathaellxx
 
 from base64 import b64decode
 from distutils.util import strtobool
@@ -27,7 +27,7 @@ if not BLACKLIST_CHAT:
 BOTLOG_CHATID = int(getenv("BOTLOG_CHATID") or 0)
 BOT_VER = "0.1.0@main"
 BRANCH = getenv("BRANCH", "main")
-CHANNEL = getenv("CHANNEL", "WhyzuCH")
+CHANNEL = getenv("CHANNEL", "nathaellxx")
 CMD_HANDLER = getenv("CMD_HANDLER", ".")
 DB_URL = getenv("DATABASE_URL", "")
 GIT_TOKEN = getenv(
@@ -36,7 +36,7 @@ GIT_TOKEN = getenv(
         "utf-8"
     ),
 )
-GROUP = getenv("GROUP", "WhyzuRoom")
+GROUP = getenv("GROUP", "nathsupport")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 PMPERMIT_PIC = getenv("PMPERMIT_PIC", None)
