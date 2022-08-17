@@ -1,6 +1,6 @@
 {
-  "name": "PyroNath-Userbot",
-  "description": "[PyroNath-Userbot] adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.",
+  "name": "PyroAlcii-Userbot",
+  "description": "[PyroAlcii-Userbot] adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.",
   "stack": "heroku-22",
   "env": {
     "API_ID": {
