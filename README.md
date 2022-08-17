@@ -1,4 +1,4 @@
-# Pyro-Nath
+# ♤Pyro-Alcii♤
 
 PyroNath-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.
 
@@ -14,12 +14,12 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 ```
 
 <h3 align="center">Klik Tombol di Bawah ini untuk Deploy di Heroku</h3>
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/nathxe/PyroNath"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/aldiboyy/PyroAlcii"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
 
 ## 🏷 Support
 
-- Follow Channel [@nathaellxx](https://t.me/nathaellxx) untuk info Update bot 
-- Gabung Group [@nathsupport](https://t.me/nathsupport) untuk diskusi, pelaporan bug, dan bantuan tentang Whyzu-Userbot.
+- Follow Channel [@soasiklo69](https://t.me/soasiklo69) untuk info Update bot 
+- Gabung Group [@alxelsupport](https://t.me/alxelsupport) untuk diskusi, pelaporan bug, dan bantuan tentang Whyzu-Userbot.
 
 ## 👨🏻‍💻 Credits
--  [EL](https://github.com/nathxe)
+-  [AL](https://github.com/aldiboyy)
