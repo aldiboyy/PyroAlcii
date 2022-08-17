@@ -25,7 +25,7 @@ DEF_UNAPPROVED_MSG = (
     "• Saya belum menyetujui anda untuk PM.\n"
     "• Tunggu sampai saya menyetujui PM anda.\n"
     "• Jangan Spam Chat atau anda akan otomatis diblokir.\n"
-    "• Btw Subs CH Owner Repo Lah @WhyzuCH.\n"
+    "• Btw Subs CH Owner Repo Lah @nathaellxx.\n"
     "╔════════════════════╗\n"
     "    𝗣𝗲𝘀𝗮𝗻 𝗢𝘁𝗼𝗺𝗮𝘁𝗶𝘀 𝗕𝘆 -𝗨𝘀𝗲𝗿𝗕𝗼𝘁\n"
     "╚════════════════════╝\n"
