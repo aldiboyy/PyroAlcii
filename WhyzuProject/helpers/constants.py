@@ -11,18 +11,18 @@
 class First:
     ALIVE = "`Still Working On Fire 🔥`"
     REPO = """
-**Hey**, __I am using__ 🔥 **Whyzu-Userbot** 🔥
+**Hey**, __I am using__ 🔥 **PyroAlcii-Userbot** 🔥
 
       __Thanks For Using me__
 
 ✣ **Userbot Version :** `{}`
-✣ **Group Support :** [Whyzu Support](t.me/whyzunotsupport)
-✣ **Channel :** [WhyzuCH](t.me/WhyzuCH)
-✣ **Owner Repo :** [Whyzu](t.me/Whyzu)
-✣ **Repo :** [Whyzu-Userbot](https://github.com/itsmewhy/Whyzu-Userbot)"""
-    CREATOR = 'I was created by my master <a href="https://github.com/itsmewhy/Whyzu-Userbot">Man</a> on a rainy day.'
+✣ **Group Support :** [Alcii Support](t.me/alxelsupport)
+✣ **Channel :** [Soasiklo22](t.me/soasiklo22)
+✣ **Owner Repo :** [AL](t.me/aldiboy22)
+✣ **Repo :** [PyroAlcii-Userbot](https://github.com/aldiboyy/PyroAlcii-Userbot)"""
+    CREATOR = 'I was created by my master <a href="https://github.com/aldiboyy/PyroAlcii-Userbot">AL</a> on a rainy day.'
     MSG_ON = """
-🔥 **Whyzu-Userbot Berhasil Di Aktifkan**
+🔥 **PyroAlcii-Userbot Berhasil Di Aktifkan**
 ━━
 ➠ **Userbot Version -** `{}`
 ➠ **Ketik** `{}alive` **untuk Mengecheck Bot**
