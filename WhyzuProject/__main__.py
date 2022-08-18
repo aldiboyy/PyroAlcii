@@ -6,6 +6,7 @@
 # <https://www.github.com/nathxe/PyroNath-Userbot/blob/main/LICENSE/>.
 #
 # t.me/nathsupport & t.me/nathaellxx
+# t.me/alxelsupport & t.me/soasiklo22
 
 import importlib
 
