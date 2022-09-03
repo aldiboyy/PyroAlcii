@@ -11,7 +11,7 @@
 class First:
     ALIVE = "`Still Working On Fire 🔥`"
     REPO = """
-**Hey**, __I am using__ 🔥 **PyroAlcii-Userbot** 🔥
+**Hey**, __I am using__ 🔥 **Pyro-al Userbot** 🔥
 
       __Thanks For Using me__
 
@@ -22,7 +22,7 @@ class First:
 ✣ **Repo :** [PyroAlcii-Userbot](https://github.com/aldiboyy/PyroAlcii-Userbot)"""
     CREATOR = 'I was created by my master <a href="https://github.com/aldiboyy/PyroAlcii-Userbot">AL</a> on a rainy day.'
     MSG_ON = """
-🔥 **PyroAlcii-Userbot Berhasil Di Aktifkan**
+🔥 **Pyro-al Userbot Berhasil Di Aktifkan**
 ━━
 ➠ **Userbot Version -** `{}`
 ➠ **Ketik** `{}alive` **untuk Mengecheck Bot**
