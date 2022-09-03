@@ -33,12 +33,12 @@ alive_text = ALIVE_TEKS_CUSTOM
 
 @Client.on_message(filters.command(["alive", "awake"], cmd) & filters.me)
 async def alive(client: Client, message: Message):
-    xx = await edit_or_reply(message, "🤖")
+    xx = await edit_or_reply(message, "💣")
     await asyncio.sleep(2)
     apa = client.send_video if ALIVE_LOGO.endswith(".mp4") else client.send_photo
     uptime = await get_readable_time((time.time() - StartTime))
     capt = (
-        f"**[PyroAlcii-Userbot](https://github.com/aldiboyy/PyroAlcii) is Up and Running.**\n\n"
+        f"**[Pyro-al Userbot](https://github.com/aldiboyy/PyroAlcii) is Up and Running.**\n\n"
         f"<b>{alive_text}</b>\n\n"
         f"{emoji} <b>Master :</b> {client.me.mention} \n"
         f"{emoji} <b>Modules :</b> <code>{len(modules)} Modules</code> \n"
