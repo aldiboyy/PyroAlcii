@@ -19,7 +19,7 @@ class First:
 ✣ **Group Support :** [Alcii Support](t.me/alxelsupport)
 ✣ **Channel :** [Soasiklo22](t.me/soasiklo22)
 ✣ **Owner Repo :** [AL](t.me/aldiboy22)
-✣ **Repo :** [PyroAlcii-Userbot](https://github.com/aldiboyy/PyroAlcii-Userbot)"""
+✣ **Repo :** [Pyro-al Userbot](https://github.com/aldiboyy/PyroAlcii-Userbot)"""
     CREATOR = 'I was created by my master <a href="https://github.com/aldiboyy/PyroAlcii-Userbot">AL</a> on a rainy day.'
     MSG_ON = """
 🔥 **Pyro-al Userbot Berhasil Di Aktifkan**
