@@ -16,7 +16,7 @@ class First:
       __Thanks For Using me__
 
 ✣ **Userbot Version :** `{}`
-✣ **Group Support :** [Alcii Support](t.me/alxelsupport)
+✣ **Group Support :** [Al Support](t.me/alxelsupport)
 ✣ **Channel :** [Soasiklo22](t.me/soasiklo22)
 ✣ **Owner Repo :** [AL](t.me/aldiboy22)
 ✣ **Repo :** [Pyro-al Userbot](https://github.com/aldiboyy/PyroAlcii-Userbot)"""
