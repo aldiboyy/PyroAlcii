@@ -19,7 +19,7 @@ from WhyzuProject.helpers.misc import heroku
 from WhyzuProject.modules import ALL_MODULES
 
 MSG_ON = """
-⚡ **PyroAlci-Userbot Berhasil Di Aktifkan**
+🥵 **Pyroal-Userbot Berhasil Di Aktifkan**
 ━━
 ➠ **Userbot Version -** `{}`
 ➠ **Ketik** `{}alive` **untuk Mengecheck Bot**
@@ -42,13 +42,13 @@ async def main():
             )
         except Exception as a:
             LOGGER("main").warning(a)
-    LOGGER("WhyzuProject").info(f"PyroAlci-UserBot v{BOT_VER} [🔥 BERHASIL DIAKTIFKAN! 🔥]")
+    LOGGER("WhyzuProject").info(f"Pyroal-UserBot v{BOT_VER} [🔥 BERHASIL DIAKTIFKAN! 🔥]")
     await idle()
     await aiosession.close()
 
 
 if __name__ == "__main__":
-    LOGGER("WhyzuProject").info("Starting PyroAlci-UserBot")
+    LOGGER("WhyzuProject").info("Starting Pyroal-UserBot")
     install()
     heroku()
     LOOP.run_until_complete(main())
