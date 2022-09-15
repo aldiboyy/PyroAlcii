@@ -19,7 +19,7 @@ from WhyzuProject.helpers.misc import heroku
 from WhyzuProject.modules import ALL_MODULES
 
 MSG_ON = """
-🥵 **Pyroal-Userbot Berhasil Di Aktifkan**
+🤖 **Pyroal-Userbot Berhasil Di Aktifkan**
 ━━
 ➠ **Userbot Version -** `{}`
 ➠ **Ketik** `{}alive` **untuk Mengecheck Bot**
