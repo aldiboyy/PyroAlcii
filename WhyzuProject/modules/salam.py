@@ -37,7 +37,7 @@ async def salamdua(client: Client, message: Message):
         message.delete(),
         client.send_message(
             message.chat.id,
-            "Assalamualaikum Warahmatullahi Wabarakatuh",
+            "Al Emang Paling Cool😼",
             reply_to_message_id=ReplyCheck(message),
         ),
     )
@@ -49,7 +49,7 @@ async def jwbsalam(client: Client, message: Message):
         message.delete(),
         client.send_message(
             message.chat.id,
-            "Wa'alaikumsalam",
+            "Gausah Sok Cool Karna Yang Cool Cuman Al😎",
             reply_to_message_id=ReplyCheck(message),
         ),
     )
