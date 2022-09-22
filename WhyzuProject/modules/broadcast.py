@@ -49,7 +49,7 @@ async def gcast_cmd(client: Client, message: Message):
         text = message.reply_to_message.text or message.reply_to_message.caption
     if not text:
         return await edit_or_reply(message, "**Berikan Sebuah Pesan atau Reply**")
-    Man = await edit_or_reply(message, "`Lagi Gcast Ngentod...`")
+    Man = await edit_or_reply(message, "`Lagi Gcast Ngentod Kalo kena limit jangan salahin gua...`")
     done = 0
     error = 0
     async for dialog in client.iter_dialogs():
