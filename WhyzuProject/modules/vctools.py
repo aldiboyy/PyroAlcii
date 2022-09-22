@@ -61,7 +61,7 @@ async def opengc(client: Client, message: Message):
                 random_id=randint(10000, 999999999),
             )
         )
-        await Man.edit(f"Started group call in **Chat ID** : `{chat_id}`")
+        await Man.edit(f"Udah KeBuka Tuh Os Nya**Chat ID** : `{chat_id}`")
     except Exception as e:
         await Man.edit(f"**INFO:** `{e}`")
 
@@ -78,7 +78,7 @@ async def end_vc_(client: Client, message: Message):
     ):
         return
     await client.send(DiscardGroupCall(call=group_call))
-    await edit_or_reply(message, f"Ended group call in **Chat ID** : `{chat_id}`")
+    await edit_or_reply(message, f"Sorry Gua Matiin Os Nya**Chat ID** : `{chat_id}`")
 
 
 @Client.on_message(
@@ -97,7 +97,7 @@ async def joinvc(client: Client, message: Message):
         await client.group_call.start(chat_id)
     except Exception as e:
         return await Man.edit(f"**ERROR:** `{e}`")
-    await Man.edit(f"❏ **Berhasil Join Ke Obrolan Suara**\n└ **Chat ID:** `{chat_id}`")
+    await Man.edit(f"❏ **Numpang Nimbrung Ke Obrolan Suara**\n└ **Chat ID:** `{chat_id}`")
     await sleep(5)
     await client.group_call.set_is_mute(True)
 
