@@ -1,6 +1,6 @@
-# ♤Pyro-Alcii♤
+# ♤Pyro-Al♤
 
-PyroAlcii-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.
+PyroAl-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.
 
 Saya membuat repository ini untuk bersenang-senang sekaligus membantu anda mengelola grup secara efisien dan untuk membantu mengurangi kebosanan saat menggunakan telegram.
 
@@ -19,7 +19,7 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 ## 🏷 Support
 
 - Follow Channel [@soasiklo69](https://t.me/soasiklo69) untuk info Update bot 
-- Gabung Group [@alxelsupport](https://t.me/alxelsupport) untuk diskusi, pelaporan bug, dan bantuan tentang Whyzu-Userbot.
+- Gabung Group [@alxelsupport](https://t.me/alxelsupport) untuk diskusi, pelaporan bug, dan bantuan tentang Al-Userbot.
 
 ## 👨🏻‍💻 Credits
 -  [AL](https://github.com/aldiboyy)
