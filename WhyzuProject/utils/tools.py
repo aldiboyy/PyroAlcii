@@ -10,11 +10,10 @@
 absen = [
     "**Hadir bang** 😁",
     "**Hadir kak** 😉",
-    "**Hadir dong** 😁",
     "**Hadir ganteng** 🥵",
     "**Hadir bro** 😎",
     "**Hadir kak maap telat** 🥺",
-    "**Harir Bang AL** 🤪",
+    "**Hadir Bang AL** 🤪",
 ]
 
 
