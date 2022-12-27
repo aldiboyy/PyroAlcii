@@ -16,7 +16,7 @@ from dotenv import load_dotenv
 load_dotenv("config.env")
 
 
-ALIVE_EMOJI = getenv("ALIVE_EMOJI", "♤")
+ALIVE_EMOJI = getenv("ALIVE_EMOJI", "🚀")
 ALIVE_LOGO = getenv("ALIVE_LOGO", "https://telegra.ph/file/7f9df89edcd749ac57b02.jpg")
 ALIVE_TEKS_CUSTOM = getenv("ALIVE_TEKS_CUSTOM", "Hey, I am alive.")
 API_HASH = getenv("API_HASH")
